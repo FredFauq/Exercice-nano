@@ -23,3 +23,9 @@ Fermer et vérifier le résultat dans **Firefox**
 
 #Exercice 4
 Ajouter dans le fichier **index.html** la balise **title** et la remplir.
+
+#Exercice 5
+Ajouter 3 titres **h2** et les remplir.
+
+#Exercice 6
+En se servant des options de **nano** remplacer les balises **h2** par des paragraphes.
